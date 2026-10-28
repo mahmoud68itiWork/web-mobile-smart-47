@@ -4,3 +4,6 @@ function sum(a,b){
 
 console.log(sum(2, 3));
 console.log('update inside main branch')
+
+console.log(sum(2, 3));
+console.log('update inside main branch')
